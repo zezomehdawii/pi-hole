@@ -1,4 +1,4 @@
-  version: "3"
+version: "3" #make the ips static from docker network
 services:
   pihole:
     container_name: pihole
